@@ -52,5 +52,4 @@ Future Work
 Add vision capabilities using a camera module.
 Enhance locomotion algorithms for faster and smoother movement.
 Implement machine learning for obstacle detection and avoidance.
-### Acknowledgments
-Special thanks to the open-source community for providing the tools and libraries used in this project.
+
